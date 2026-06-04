@@ -33,5 +33,3 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 | Binary Search | 0 |
 | Trees | 0 |
 | Graphs | 0 |
-
-**Total Solved:** 10
