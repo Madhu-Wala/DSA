@@ -4,13 +4,13 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 
 ## Progress
 
-- Total Problems Solved: 10
+- Total Problems Solved: 17
 
 ## Patterns Covered
 
 - [x] Hashing
 - [x] Two Pointers
-- [ ] Sliding Window
+- [x] Sliding Window
 - [ ] Prefix Sum
 - [ ] Binary Search
 - [ ] Linked List
@@ -28,8 +28,8 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 | Pattern | Problems |
 |----------|----------:|
 | Hashing | 7 |
-| Two Pointers | 3 |
-| Sliding Window | 0 |
+| Two Pointers | 9 |
+| Sliding Window | 1 |
 | Binary Search | 0 |
 | Trees | 0 |
 | Graphs | 0 |
