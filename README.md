@@ -4,10 +4,12 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 
 ## Progress
 
-- Total Problems Solved: 19
+- Total Problems Solved: 20
 
 ## Patterns Covered
 
+
+- [x] Strings basic
 - [x] Hashing
 - [x] Two Pointers
 - [x] Sliding Window
@@ -27,6 +29,7 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 
 | Pattern | Problems |
 |----------|----------:|
+| Strings basic | 1 |
 | Hashing | 7 |
 | Two Pointers | 9 |
 | Sliding Window | 3 |
