@@ -4,7 +4,7 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 
 ## Progress
 
-- Total Problems Solved: 24
+- Total Problems Solved: 26
 
 ## Patterns Covered
 
@@ -33,6 +33,6 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 | Hashing | 7 |
 | Two Pointers | 9 |
 | Sliding Window | 3 |
-| Binary Search | 4 |
+| Binary Search | 6 |
 | Trees | 0 |
 | Graphs | 0 |
