@@ -7,7 +7,7 @@ Both the questions have 2 public and 5 private test cases and the evaluation wil
 
 
 > ### Important
-> **No boilerplate** code is provided, you have to write entire code from scratch and also **intellisense** is **not provided.**
+> **No boilerplate** code is provided, you have to write entire code from scratch and also **Auto code-completion** is **not provided.**
 
 #### 1. Advanced Coding Easy
 
