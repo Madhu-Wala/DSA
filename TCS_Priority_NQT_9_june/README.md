@@ -25,7 +25,7 @@ Solution: `CodingEasy.java`
 
 #### 2. Advanced Coding Medium
 
-Given a binary tree, print the minium height of the tree. In other words print the height of the shortest path to leaf or height of the nearest leaf from root.
+Given a binary tree, print the minimum height of the tree. In other words print the height of the shortest path to leaf or height of the nearest leaf from root.
 
 Input:
 * No.of nodes n (int)
