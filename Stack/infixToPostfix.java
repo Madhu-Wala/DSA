@@ -2,7 +2,7 @@ package Preparation;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class PostfixEva {
+public class InfixToPostfix {
     static class StackCustom<T>{
         private T[] stack;
         private int top=-1;
