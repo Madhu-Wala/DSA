@@ -4,7 +4,7 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 
 ## Progress
 
-- Total Problems Solved: 42.
+- Total Problems Solved: 52.
 
 ## Patterns Covered
 
@@ -18,7 +18,7 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 - [x] Linked List
 - [x] Stack
 - [x] Queue
-- [ ] Trees
+- [x] Trees
 - [ ] Graphs
 - [ ] Dynamic Programming
 
@@ -38,5 +38,5 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 | LinkedList | 5 |
 | Stack | 9 |
 | Queue | 2 |
-| Trees | 0 |
+| Trees | 10 |
 | Graphs | 0 |
