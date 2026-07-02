@@ -30,13 +30,13 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 
 | Pattern | Problems |
 |----------|----------:|
-| Strings basic | 1 |
-| Hashing | 7 |
-| Two Pointers | 9 |
-| Sliding Window | 3 |
-| Binary Search | 6 |
-| LinkedList | 5 |
-| Stack | 9 |
-| Queue | 2 |
+| Strings basic | 01 |
+| Hashing | 07 |
+| Two Pointers | 09 |
+| Sliding Window | 03 |
+| Binary Search | 06 |
+| LinkedList | 05 |
+| Stack | 09 |
+| Queue | 02 |
 | Trees | 15 |
-| Graphs | 2 |
+| Graphs | 02 |
