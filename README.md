@@ -22,9 +22,7 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 - [x] Graphs
 - [ ] Dynamic Programming
 
-## Language
-
-- Java
+## Language: Java
 
   ## Progress
 
