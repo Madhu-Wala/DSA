@@ -30,7 +30,7 @@ A collection of my LeetCode solutions written in Java for DSA and placement prep
 |----------|----------:|
 | Strings basic | 01 |
 | Hashing | 07 |
-| Two Pointers | 09 |
+| Two Pointers | 11 |
 | Sliding Window | 03 |
 | Binary Search | 06 |
 | LinkedList | 05 |
