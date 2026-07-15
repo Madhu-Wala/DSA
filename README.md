@@ -1,6 +1,6 @@
 # LeetCode Solutions (Java)
 
-A collection of my LeetCode solutions written in Java for DSA and placement preparation.
+A collection of my LeetCode solutions written in Java for **DSA** and placement preparation.
 
 ## Progress
 
